@@ -1,0 +1,14 @@
+C:\Users\hp\OneDrive\Belgeler\Basit_bir_kayıt_projesi\Basit_bir_kayıt_projesi\bin\Debug\Basit_bir_kayıt_projesi.exe.config
+C:\Users\hp\OneDrive\Belgeler\Basit_bir_kayıt_projesi\Basit_bir_kayıt_projesi\bin\Debug\Basit_bir_kayıt_projesi.exe
+C:\Users\hp\OneDrive\Belgeler\Basit_bir_kayıt_projesi\Basit_bir_kayıt_projesi\bin\Debug\Basit_bir_kayıt_projesi.pdb
+C:\Users\hp\OneDrive\Belgeler\Basit_bir_kayıt_projesi\Basit_bir_kayıt_projesi\obj\Debug\Basit_bir_kayıt_projesi.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Belgeler\Basit_bir_kayıt_projesi\Basit_bir_kayıt_projesi\obj\Debug\Basit_bir_kayıt_projesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\OneDrive\Belgeler\Basit_bir_kayıt_projesi\Basit_bir_kayıt_projesi\obj\Debug\Basit_bir_kayıt_projesi.Form1.resources
+C:\Users\hp\OneDrive\Belgeler\Basit_bir_kayıt_projesi\Basit_bir_kayıt_projesi\obj\Debug\Basit_bir_kayıt_projesi.Properties.Resources.resources
+C:\Users\hp\OneDrive\Belgeler\Basit_bir_kayıt_projesi\Basit_bir_kayıt_projesi\obj\Debug\Basit_bir_kayıt_projesi.csproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Belgeler\Basit_bir_kayıt_projesi\Basit_bir_kayıt_projesi\obj\Debug\Basit_bir_kayıt_projesi.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Belgeler\Basit_bir_kayıt_projesi\Basit_bir_kayıt_projesi\obj\Debug\Basit_bir_kayıt_projesi.exe
+C:\Users\hp\OneDrive\Belgeler\Basit_bir_kayıt_projesi\Basit_bir_kayıt_projesi\obj\Debug\Basit_bir_kayıt_projesi.pdb
+C:\Users\hp\OneDrive\Belgeler\Basit_bir_kayıt_projesi\Basit_bir_kayıt_projesi\bin\Debug\tr-TR\Basit_bir_kayıt_projesi.resources.dll
+C:\Users\hp\OneDrive\Belgeler\Basit_bir_kayıt_projesi\Basit_bir_kayıt_projesi\obj\Debug\Basit_bir_kayıt_projesi.Form1.tr-TR.resources
+C:\Users\hp\OneDrive\Belgeler\Basit_bir_kayıt_projesi\Basit_bir_kayıt_projesi\obj\Debug\tr-TR\Basit_bir_kayıt_projesi.resources.dll
